@@ -1,0 +1,19 @@
+.bg-custom
+{
+	background: rgb(64, 128, 128);
+}
+.navbar .nav-item .nav-link
+{
+	font-size: 19px;
+	color: white;
+}
+.navbar-custom .nav-item:hover .nav-link
+{
+	background: white;
+	color: black;
+	border-radius: 14px;
+}
+.bg-dark
+{
+	background: rgb(64, 128, 128);
+}
